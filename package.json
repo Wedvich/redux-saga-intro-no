@@ -1,0 +1,8 @@
+{
+  "name": "redux-saga-intro-no",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "https://github.com/Wedvich/redux-saga-intro-no.git",
+  "author": "Martin Wedvich <wedvich@gmail.com>",
+  "license": "MIT"
+}
